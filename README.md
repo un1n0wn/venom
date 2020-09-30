@@ -1,6 +1,6 @@
 # venom
 venom is a simple hacking tool i made, i want you to know that this is my first time
-trying to make a serious program so it might be a bit bad but this wan fun to make!
+trying to make a serious program so it might be a bit bad but this was fun to make!
 
 INSTRUCTIONS:
 
