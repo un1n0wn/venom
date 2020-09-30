@@ -1,0 +1,47 @@
+#!/bin/bash
+
+
+apt install python3-pip
+pip3 install colorama
+pip3 install ConfigParser
+pip3 install fbchat
+pip3 install datetime
+pip3 install scapy
+pip3 install bs4
+mv venom /usr/bin
+cp ddos.py /usr/bin
+cp phish.py /usr/bin
+cp passwd.py /usr/bin
+cp scanner.py /usr/bin
+cp venom.py /usr/bin
+cp payload.py /usr/bin
+
+
+
+
+
+
+
+
+
+
+clear 
+
+echo "     _______  __   __  _______  _______    __   __  _______  __    _  _______  __   __    _______  _______    __   __  _______  _______    ___   _______ " 
+echo "    |       ||  | |  ||       ||       |  |  | |  ||       ||  |  | ||       ||  |_|  |  |       ||       |  |  | |  ||       ||       |  |   | |       |"
+echo "    |_     _||  |_|  ||    _  ||    ___|  |  |_|  ||    ___||   |_| ||   _   ||       |  |_     _||   _   |  |  | |  ||  _____||    ___|  |   | |_     _|"
+echo "      |   |  |       ||   |_| ||   |___   |       ||   |___ |       ||  | |  ||       |    |   |  |  | |  |  |  |_|  || |_____ |   |___   |   |   |   |  "
+echo "      |   |  |_     _||    ___||    ___|  |       ||    ___||  _    ||  |_|  ||       |    |   |  |  |_|  |  |       ||_____  ||    ___|  |   |   |   |  "
+echo "      |   |    |   |  |   |    |   |___    |     | |   |___ | | |   ||       || ||_|| |    |   |  |       |  |       | _____| ||   |___   |   |   |   |  "
+echo "      |___|    |___|  |___|    |_______|    |___|  |_______||_|  |__||_______||_|   |_|    |___|  |_______|  |_______||_______||_______|  |___|   |___|  "
+echo "                                                                                                                                                         "
+
+
+
+echo "                                                               type venom to use the venom tool "                                                                                                     
+ 
+exit
+
+cd ~
+
+
